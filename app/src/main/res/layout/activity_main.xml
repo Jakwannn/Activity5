@@ -29,7 +29,7 @@
         android:background="#ffffff"
         android:ems="10"
         android:hint="@string/tEmail"
-        android:inputType="textPersonName"
+        android:inputType="textEmailAddress"
         android:padding="12dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.502"
